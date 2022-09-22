@@ -21,9 +21,7 @@
       "launchBrowser": true,
       "ASPNETCORE_ENVIRONMENT": "Development",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "BING_KEY": "b4eb69d5d83147209edbfbc1e40c17f5",
-        "BING_ENDPOINT": "https://api.bing.microsoft.com/"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "https://localhost"
     }
