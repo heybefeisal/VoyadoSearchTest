@@ -1,0 +1,31 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:54325/",
+      "sslPort": 44381
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "VoyadoSearchTest": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "ASPNETCORE_ENVIRONMENT": "Development",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BING_KEY": "b4eb69d5d83147209edbfbc1e40c17f5",
+        "BING_ENDPOINT": "https://api.bing.microsoft.com/"
+      },
+      "applicationUrl": "https://localhost"
+    }
+  }
+}
